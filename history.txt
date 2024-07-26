@@ -1,0 +1,5 @@
+b7da408 HEAD@{0}: revert: Revert "Re-add text2.txt "
+31ae0c5 HEAD@{1}: commit: Add text2.txt again
+504d413 HEAD@{2}: reset: moving to 504d41384b0e1814c834ed8d56fb12110c3351e8
+253bb90 HEAD@{3}: commit: Add text2.txt
+504d413 HEAD@{4}: commit (initial): Initial commit
